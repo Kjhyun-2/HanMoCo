@@ -1,7 +1,11 @@
 ## HanMoCo 
 ### 백준 코드 공유 & 알고리즘 스터디
 
-> 팀원 : 강지현, 장우혁, 유혜원, 황서연
+> 팀원 : 강지현, 유혜원, 장우혁, 황서연
+
+| 강지현 | 유혜원 | 장우혁 | 황서연 |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <img src="https://user-images.githubusercontent.com/52669844/233824808-152c3938-e13d-4d38-b4eb-78a76691e47c.png"  width="400" height="280"/> |  <img src="https://user-images.githubusercontent.com/52669844/233824958-025c4c13-b06a-4d94-81c3-e36f7fe682d0.png"  width="400" height="280"/>   | <img src="https://user-images.githubusercontent.com/52669844/233824973-b9da123d-357c-4797-ad7f-8c5c46079aea.png"  width="400" height="280"/> | <img src="https://user-images.githubusercontent.com/52669844/233825045-4fea14a5-b972-433f-b051-c7302102fb82.png"  width="400" height="280"/> |
 
 <br>
 
