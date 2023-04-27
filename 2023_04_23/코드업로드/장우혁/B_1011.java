@@ -13,11 +13,14 @@ public class B_1011 {
             int y = Integer.parseInt(tokens.nextToken());
             int dis = y - x;
             int max = (int) Math.sqrt(dis);
+            
             if (max == Math.sqrt(dis)) {
                 bw.write(String.valueOf(max * 2 -1) + "\n");
-            } else if (max * max < dis && dis <= max * max + max) {
+            }
+            else if (max * max < dis && dis <= max * max + max) {
                 bw.write(String.valueOf(max * 2) + "\n");
-            } else {
+            }
+            else {
                 bw.write(String.valueOf(max * 2 + 1) + "\n");
             }
         }
